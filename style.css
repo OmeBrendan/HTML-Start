@@ -1,6 +1,14 @@
 body {
+    font-family: Comic-Sans, helvetica, sans-serif;
     font-size: 14px;
-    color: navy;
+    color: 	#FFAA00;
+    background-color: #ffc;
+    margin: 20px;
+    padding: 0;
+}
+
+p {
+    line-height: 21px;
 }
 
 h1 {
@@ -21,4 +29,13 @@ h2 {
     border-left-width: 10px;
     border-right-width: 10px;
     border-color: red;
+}
+
+table {
+    background-color: #ccc;
+}
+
+strong {
+    font-style: italic;
+    text-transform: uppercase;
 }
